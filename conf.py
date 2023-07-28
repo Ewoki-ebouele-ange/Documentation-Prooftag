@@ -5,6 +5,7 @@
 
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
+import os
 
 project = "Prooftag Doc's"
 copyright = '2023, Prooftag auth'
@@ -26,3 +27,11 @@ language = 'fr'
 
 html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
+
+# Utilisez le répertoire de sortie standard de Read the Docs
+output_dir = os.getenv('READTHEDOCS_OUTPUT', default='_build/html')
+
+# Configurez le répertoire de sortie pour la documentation générée
+html_context = {
+    'output_dir': output_dir,
+}
