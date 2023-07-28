@@ -26,14 +26,3 @@ language = 'fr'
 
 html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
-
-# Dans le fichier conf.py, spécifiez le bon répertoire de sortie
-import os
-
-# Utilisez le répertoire de sortie standard de Read the Docs
-output_dir = os.getenv('READTHEDOCS_OUTPUT', default='_build/html')
-
-# Configurez le répertoire de sortie pour la documentation générée
-html_context = {
-    'output_dir': output_dir,
-}
