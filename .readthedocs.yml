@@ -3,7 +3,8 @@ version: 2
 # Options de configuration
 build:
   image: latest  # L'image du générateur de documentation à utiliser
-  formats:  all      # Formats à générer
+  formats:       # Formats à générer
+    - html
   python:
     install:
     - requirements: Documentation Prooftag/requirements.txt
