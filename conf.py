@@ -28,5 +28,4 @@ language = 'fr'
 html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
 
-# Output file base name for HTML help builder.
-htmlhelp_basename = 'Prooftagdoc'
+html_output_path = '$READTHEDOCS_OUTPUT/html'
