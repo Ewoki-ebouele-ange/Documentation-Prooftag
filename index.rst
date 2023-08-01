@@ -41,3 +41,10 @@ Prooftag Doc's *documentation* master file, created by
    :caption: PRESENTATION DES ROLES
 
    PresentationRol/presentationRol
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: PROCEDURE D’ETABLISSEMENT D’UN PV POUR CONTRÔLE INITIAL
+
+   Procedure_pv/procedure_pv.rst
