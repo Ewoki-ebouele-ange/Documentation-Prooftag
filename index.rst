@@ -19,12 +19,7 @@ Prooftag Doc's *documentation* master file, created by
    * quia nisi quos! Officiis, amet sint.
 
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae in, iusto mollitia iure omnis doloribus veritatis earum. Eum labore sit earum totam deserunt inventore itaque 
-libero voluptatibus and :doc:`/Options/justlogic` provident esse! Aperiam?
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae in, iusto mollitia iure omnis doloribus veritatis earum. Eum labore sit 
-earum totam deserunt inventore itaque :doc:`Best start point </Options/justlogic>` libero voluptatibus provident esse! Aperiam?
-
-Pour une reference code et hardware :ref:`Option for code and hardware <hwcodeOptions>`
+**DITROS** est un ensemble de solutions/services utilisant l'innovation et la technologie numérique pour faire progresser la sécurité routière en général et permettre aux gouvernements et autres organismes publics/privés d'atteindre les objectifs de l’ONU en matière de sécurité routière. Son module « Contrôle Technique » est destiné au Centres de Contrôle Techniques des pays intéressés. Le présent manuel d’utilisation du logiciel DITROS CT a pour but d’emmener le personnel des centres de contrôle technique à maitriser l’outil qui leur permettra d’effectuer le processus de production des vignettes de visite technique. Ce manuel d’utilisation offre une vue d’ensemble des caractéristiques de l’application et donne des instructions pas à pas pour la réalisation d’une visite technique de véhicule. Dans Ce document, seront principalement développés 04 (quatre) parties : la présentation des équipements, la présentation des rôles, la procédure d’établissement d’un PV pour un contrôle initial et enfin la procédure pour faire une contre visite.
 
 .. toctree::
    :maxdepth: 2
@@ -40,9 +35,9 @@ Pour une reference code et hardware :ref:`Option for code and hardware <hwcodeOp
 
    PresentationEquip/presentationEquip
 
-Indices and tables
-==================
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: PRESENTATION DES ROLES
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   PresentationRol/presentationRol
