@@ -1,6 +1,6 @@
 
 PRESENTATION DES EQUIPEMENTS
-============================
+++++++++++++++++++++++++++++
 
 Le serveur local
 ++++++++++++++++
