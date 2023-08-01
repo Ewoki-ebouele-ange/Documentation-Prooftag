@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Prooftag Doc's's documentation!
+Welcome to Prooftag Doc's documentation!
 ==========================================
 
 Prooftag Doc's *documentation* master file, created by
@@ -44,6 +44,19 @@ Pour une reference code et hardware :ref:`Option for code and hardware <hwcodeOp
    Guidelines/content
    Guidelines/workflow
    
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: INTRODUCTION
+
+   INTRODUCTION/introduction
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: PRESENTATION DES EQUIPEMENTS
+
+   PresentationEquip/presentationEquip
 
 Indices and tables
 ==================
