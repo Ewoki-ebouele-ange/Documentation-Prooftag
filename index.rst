@@ -29,24 +29,6 @@ Pour une reference code et hardware :ref:`Option for code and hardware <hwcodeOp
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: Options
-
-   Options/justlogic
-   Options/justcode
-   Options/hardwareandcode
-   Options/justhardware
-
-.. toctree::
-   :maxdepth: 2
-   :hidden:
-   :caption: Guidelines
-
-   Guidelines/content
-   Guidelines/workflow
-   
-.. toctree::
-   :maxdepth: 2
-   :hidden:
    :caption: INTRODUCTION
 
    INTRODUCTION/introduction
