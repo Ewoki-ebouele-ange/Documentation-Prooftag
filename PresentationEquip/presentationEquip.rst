@@ -48,3 +48,33 @@ Les lignes de test
 Ensemble des équipements par lesquels un véhicule passe pour la réalisation de sa visite technique (ripage, suspension, freinage, pollution, règle phare, jeux de plaques, sous-sol ou Cric).
 
 Il existe trois types de lignes de test :
+
+Les **lignes VL** pour véhicules légers
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Les différents tests pouvant être effectué sur les VL sont :
+    * Le ripage
+    * La suspension
+    * Le freinage
+    * La pollution
+    * Le règle-phare
+    * Le visuel
+
+Les **lignes PL** pour les poids lourds
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Les différents tests pouvant être effectué sur les PL sont :
+    * Le ripage
+    * Le freinage
+    * La pollution
+    * Le règle-phare
+    * Le visuel
+
+Les **lignes mixtes** pour les poids lourds et les véhicules légers
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Les différents tests pouvant être effectué sur les lignes mixtes sont :
+    * Le ripage
+    * La suspension
+    * Le freinage
+    * La pollution
+    * Le règle-phare
+    * Le visuel
+
