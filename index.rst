@@ -45,6 +45,8 @@ Prooftag Doc's *documentation* master file, created by
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: PROCEDURE D’ETABLISSEMENT D’UN PV POUR CONTRÔLE INITIAL
+   :caption: ETABLISSEMENT D’UN PROCES VERBAL
 
    Procedure_pv/procedure_pv.rst
+   Procedure_pv/connect_ditros.rst
+   Procedure_pv/enreg_veh.rst
